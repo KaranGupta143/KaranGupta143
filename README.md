@@ -184,23 +184,12 @@ An end-to-end ML workflow that uses EDA, SMOTE, model comparison, and hyperparam
 <div align="center">
 
 <a href="https://github.com/KaranGupta143">
-	<img height="165" src="https://github-readme-stats.vercel.app/api?username=KaranGupta143&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=2EA043&text_color=C9D1D9&ring_color=58A6FF&include_all_commits=true" alt="Karan's GitHub stats" />
-</a>
-<a href="https://github.com/KaranGupta143">
-	<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranGupta143&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="Top languages" />
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KaranGupta143&theme=github_dark" alt="Karan's GitHub activity summary" />
 </a>
 
 <br>
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KaranGupta143&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=F0883E&currStreakLabel=58A6FF" alt="GitHub contribution streak" /></a>
-
-</div>
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=KaranGupta143&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub trophies" />
 
 </div>
 
